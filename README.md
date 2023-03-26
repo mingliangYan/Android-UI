@@ -9,7 +9,7 @@ Gesture是一款手势识别视图，9个原型触碰区分别代表数字1~9，
 
 AndroidWidgetLib/gesture.gif
 ![](/AndroidWidgetLib/gesture.gif)
-![avatar](AndroidWidgetLib/gesture.gif)
+![avatar](/AndroidWidgetLib/gesture.gif)
 
 
 **注意** 手势滑动区不可重复，即手势密码不可重复，如12369871，识别出来的结果将会去除重复数字1，即1236987
