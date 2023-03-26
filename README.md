@@ -8,7 +8,7 @@ Gesture是一款手势识别视图，9个圆形触碰区分别代表数字1~9，
 开发者可自定义识别成功和失败时图形颜色、间距、密码等。
 
 
-                                          ![GestureView演示](https://img-blog.csdnimg.cn/0eec70e855044301b4eb4a9fbdbe0384.gif) 
+![GestureView演示](https://img-blog.csdnimg.cn/0eec70e855044301b4eb4a9fbdbe0384.gif) 
 
 **注意** 手势滑动区不可重复，即手势密码不可重复，如12369871，识别出来的结果将会去除重复数字1，即1236987
 ### 使用
