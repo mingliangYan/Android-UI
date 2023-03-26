@@ -7,13 +7,8 @@
 Gesture是一款手势识别视图，9个原型触碰区分别代表数字1~9，触碰动作结束时会以数字字符串的形式回调结果。
 开发者可自定义识别成功和失败时图形颜色、间距、密码等。
 
-AndroidWidgetLib/gesture.gif
-![](/AndroidWidgetLib/gesture.gif)
-![avatar](/AndroidWidgetLib/gesture.gif)
+![GestureView演示](https://github.com/mingliangYan/Android-UI/blob/main/AndroidWidgetLib/hua.jpeg)
 
-https://github.com/mingliangYan/Android-UI/blob/117ae00c43571c295cd4306d61fc38a7dcd710e6/AndroidWidgetLib/gesture.gif
-![image](https://github.com/mingliangYan/Android-UI/blob/117ae00c43571c295cd4306d61fc38a7dcd710e6/AndroidWidgetLib/gesture.gif)
-![image](https://github.com/mingliangYan/Android-UI/blob/117ae00c43571c295cd4306d61fc38a7dcd710e6/AndroidWidgetLib/gesture.gif)
 **注意** 手势滑动区不可重复，即手势密码不可重复，如12369871，识别出来的结果将会去除重复数字1，即1236987
 ### 使用
   **在资源文件添加GestureView**
