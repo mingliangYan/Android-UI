@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GestureView">
+        <attr name="space" format="dimension"/>
+        <attr name="password" format="integer"/>
+        <attr name="checkout_time" format="integer"/>
+        <attr name="default_color" format="color"/>
+        <attr name="selected_color" format="color"/>
+        <attr name="error_color" format="color"/>
+    </declare-styleable>
+</resources>

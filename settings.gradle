@@ -1,0 +1,3 @@
+include ':AndroidWidgetLib'
+include ':app'
+rootProject.name='AndroidUI'
